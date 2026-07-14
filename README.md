@@ -117,3 +117,11 @@ This list tracks Linux distributions based directly on **Debian** that maintain 
 * **[Endless OS](https://endlessos.com/)** / **[Emmabuntüs](https://emmabuntus.org/)** - Designed for education and deployment in developing regions.
 * **[Astra](https://astralinux.ru/en/)** / **[BOSS](https://www.bosslinux.in/)** / **[Pardus](https://www.pardus.org.tr/en/home/)** / **[UOS](https://www.chinauos.com/)** - State-sponsored distributions for Russia, India, Turkey, and China.
 * **[openKylin](https://www.openkylin.top/downloads/os-en.html)** - The community-driven version of China's primary OS.
+
+---
+
+### Contributing
+
+Submit a Pull Request if I missed something. Make sure the distro is directly based on Debian (not Ubuntu) and explain what makes it worth a look. Please read the [contributing guidelines](CONTRIBUTING.md) first.
+
+* Maintained by [Terminal Tilt (Bryan)](https://github.com/TerminalTilt)
