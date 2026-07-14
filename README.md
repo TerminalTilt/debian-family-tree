@@ -27,6 +27,7 @@ This list tracks Linux distributions based directly on **Debian** that maintain 
 
 ## Daily Drivers (Ease of Use)
 * **[LMDE](https://www.linuxmint.com/download_lmde.php)** (Linux Mint Debian Edition) - The Mint experience without the Ubuntu base.
+* **[TUXEDO OS](https://www.tuxedocomputers.com/en/TUXEDO-OS)** - German hardware vendor's custom distro, recently switched from Ubuntu to Debian Testing citing concerns over Canonical's Snap push, AI transparency, and need for fresher software.
 * **[MX Linux](https://mxlinux.org/)** - Features the custom MXTools suite for system management.
 * **[Peppermint OS](https://peppermintos.com/)** - Lightweight and cloud-integrated.
 * **[Neptune](https://neptuneos.com/)** - Polished KDE Plasma experience on a stable Debian base.
